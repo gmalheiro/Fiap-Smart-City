@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fiap Smart City.props" />
+</Project>
