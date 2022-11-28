@@ -1,4 +1,4 @@
- Dog store
+ Fiap Smart city
 >  Um projeto que utiliza operações CRUD(Create, Read, Update, Delete) e exibi as informações utilizando uma interface gráfica 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
