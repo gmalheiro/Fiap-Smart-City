@@ -1,0 +1,8 @@
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.csproj.AssemblyReference.cache
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.AssemblyInfoInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.AssemblyInfo.cs
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.csproj.CoreCompileInputs.cache
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.RazorAssemblyInfo.cache
+C:\Users\g.silva.malheiro\Documents\Programming\Back\.NET\Fiap Smart City\Fiap Smart City\obj\Debug\net6.0\Fiap Smart City.RazorAssemblyInfo.cs
